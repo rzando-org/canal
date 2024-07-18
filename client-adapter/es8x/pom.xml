@@ -27,7 +27,7 @@
         <dependency>
             <groupId>co.elastic.clients</groupId>
             <artifactId>elasticsearch-java</artifactId>
-            <version>8.6.2</version>
+            <version>8.12.1</version>
         </dependency>
         <!--<dependency>
             <groupId>org.elasticsearch.client</groupId>
@@ -80,7 +80,7 @@
                             <tasks>
                                 <copy todir="${project.basedir}/../launcher/target/classes/es8" overwrite="true">
                                     <fileset dir="${project.basedir}/target/classes/es8" erroronmissingdir="true">
-                                        <include name="*.yml" />
+                                        <include name="*.yml"/>
                                     </fileset>
                                 </copy>
                             </tasks>
