@@ -99,7 +99,7 @@
         <java_target_version>1.8</java_target_version>
         <file_encoding>UTF-8</file_encoding>
         <javadoc_skip>true</javadoc_skip>
-        <spring_version>5.3.9</spring_version>
+        <spring_version>5.3.39</spring_version>
         <log4j_version>2.17.0</log4j_version>
         <rocketmq_version>4.8.0</rocketmq_version>
         <rabbitmq_version>5.18.0</rabbitmq_version>
